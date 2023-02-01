@@ -2,6 +2,9 @@
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
+## [Solution](https://dillon-porter.github.io/Order-summary-component/)
+## [Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
